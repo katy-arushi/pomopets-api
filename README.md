@@ -59,7 +59,7 @@ A [Lighthouse Labs](https://www.lighthouselabs.ca/) project by [Justin Lam](http
 6. Run `npx prisma db seed`
 
 #### To deploy to Heroku
-Follow this [guide] (https://www.prisma.io/docs/guides/deployment/deployment-guides/deploying-to-heroku)
+Follow this [guide](https://www.prisma.io/docs/guides/deployment/deployment-guides/deploying-to-heroku)
 1. `heroku login`
 2. `heroku apps:create pomopets`
 3. `heroku addons:create heroku-postgresql:hobby-dev`
